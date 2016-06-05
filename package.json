@@ -1,0 +1,19 @@
+{
+  "name": "angular-webpack-directive",
+  "version": "1.0.0",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kurtz1993/angular-webpack-directive.git"
+  },
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "gulp": "^3.9.1",
+    "html-loader": "^0.4.3",
+    "style-loader": "^0.13.1",
+    "ts-loader": "^0.8.2",
+    "typescript": "^1.8.10",
+    "webpack": "^1.13.1",
+    "webpack-stream": "^3.2.0"
+  }
+}
